@@ -144,9 +144,11 @@ I also practiced the same process independently on additional lab files, which h
 ### Author
 
 **Emmanuel Afunanya**
+
 Cybersecurity Intern, Networkwalks B084
 
 LinkedIn: https://www.linkedin.com/in/emmanuel-afunanya-730ba9207
+
 GitHub: https://github.com/Emmanuel-DeEthical
 
 Pentesting Project Report | Networkwalks
